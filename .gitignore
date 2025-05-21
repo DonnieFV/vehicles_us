@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Streamlit specific
+.streamlit/secrets.toml
+.streamlit/cache/
